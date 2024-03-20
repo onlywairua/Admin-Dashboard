@@ -1,8 +1,5 @@
 # Admin-Dashboard
-The Admin Dashboard repository provides a comprehensive and customizable solution for managing administrative tasks and monitoring key metrics within your application or system. Its work in progress.
-
-Below is a draft README file for your admin dashboard GitHub repository:
-
+The Admin Dashboard repository provides a comprehensive and customizable solution for managing administrative tasks and monitoring key metrics within an application or system. Its work in progress.
 ---
 
 # Admin Dashboard
